@@ -1,5 +1,5 @@
 # docker_aws_lamp
-How to make LAMP Stack envirement on amazon linux by Docker
+LAMP Stack envirement on amazon linux by Docker
 
 ## LAMP環境用のイメージファイル作成
 <pre>
